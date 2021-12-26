@@ -1,11 +1,9 @@
-Litecoin Core
+PCoin Core
 =============
 
 Setup
 ---------------------
-Litecoin Core is the original Litecoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Litecoin transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
-
-To download Litecoin Core, visit [litecoin.org](https://litecoin.org/).
+PCoin Core is the original PCoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of PCoin transactions, which requires approximately 1 gigabyte of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few seconds to a minute or more.
 
 Running
 ---------------------
@@ -24,7 +22,7 @@ Unpack the files into a directory, and then run litecoin-qt.exe.
 
 ### macOS
 
-Drag Litecoin Core to your applications folder, and then run Litecoin Core.
+Drag Litecoin Core to your applications folder, and then run PCoin Core.
 
 ### Need Help?
 
@@ -46,39 +44,6 @@ The following are developer notes on how to build Litecoin Core on your native p
 - [NetBSD Build Notes](build-netbsd.md)
 - [Gitian Building Guide (External Link)](https://github.com/bitcoin-core/docs/blob/master/gitian-building.md)
 
-Development
----------------------
-The Litecoin repo's [root README](/README.md) contains relevant information on the development process and automated testing.
-
-- [Developer Notes](developer-notes.md)
-- [Productivity Notes](productivity.md)
-- [Release Notes](release-notes.md)
-- [Release Process](release-process.md)
-- [Translation Process](translation_process.md)
-- [Translation Strings Policy](translation_strings_policy.md)
-- [JSON-RPC Interface](JSON-RPC-interface.md)
-- [Unauthenticated REST Interface](REST-interface.md)
-- [Shared Libraries](shared-libraries.md)
-- [BIPS](bips.md)
-- [Dnsseed Policy](dnsseed-policy.md)
-- [Benchmarking](benchmarking.md)
-
-### Resources
-* Discuss on the [LitecoinTalk](https://litecointalk.io/) forums.
-* Discuss general Litecoin development on #litecoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=litecoin-dev.
-
-### Miscellaneous
-- [Assets Attribution](assets-attribution.md)
-- [bitcoin.conf Configuration File](bitcoin-conf.md)
-- [Files](files.md)
-- [Fuzz-testing](fuzzing.md)
-- [Reduce Traffic](reduce-traffic.md)
-- [Tor Support](tor.md)
-- [Init Scripts (systemd/upstart/openrc)](init.md)
-- [ZMQ](zmq.md)
-- [PSBT support](psbt.md)
-
-License
 ---------------------
 Distributed under the [MIT software license](/COPYING).
 This product includes software developed by the OpenSSL Project for use in the [OpenSSL Toolkit](https://www.openssl.org/). This product includes
