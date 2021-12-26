@@ -1,15 +1,13 @@
-Building Litecoin Core with Visual Studio
+Building PCoin Core with Visual Studio
 ========================================
 
 Introduction
 ---------------------
-Solution and project files to build the Litecoin Core applications (except Qt dependent ones) with Visual Studio 2017 can be found in the build_msvc directory.
-
-Building with Visual Studio is an alternative to the Linux based [cross-compiler build](https://github.com/litecoin-project/litecoin/blob/master/doc/build-windows.md).
+Solution and project files to build the PCoin Core applications (except Qt dependent ones) with Visual Studio 2017 can be found in the build_msvc directory.
 
 Dependencies
 ---------------------
-A number of [open source libraries](https://github.com/litecoin-project/litecoin/blob/master/doc/dependencies.md) are required in order to be able to build Litecoin.
+A number of [open source libraries](https://github.com/litecoin-project/litecoin/blob/master/doc/dependencies.md) are required in order to be able to build PCoin.
 
 Options for installing the dependencies in a Visual Studio compatible manner are:
 
