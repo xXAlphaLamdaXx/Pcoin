@@ -1,26 +1,19 @@
-Litecoin Core integration/staging tree
+PCoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/litecoin-project/litecoin.svg?branch=master)](https://travis-ci.org/litecoin-project/litecoin)
-
-https://litecoin.org
-
-What is Litecoin?
+What is PCoin?
 ----------------
 
-Litecoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Litecoin uses peer-to-peer technology to operate
+PCoin is an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. PCoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Litecoin Core is the name of open source
+out collectively by the network. PCoin Core is the name of open source
 software which enables the use of this currency.
-
-For more information, as well as an immediately useable, binary version of
-the Litecoin Core software, see [https://litecoin.org](https://litecoin.org).
 
 License
 -------
 
-Litecoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+PCoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
