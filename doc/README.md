@@ -7,7 +7,7 @@ PCoin Core is the original PCoin client and it builds the backbone of the networ
 
 Running
 ---------------------
-The following are some helpful notes on how to run Litecoin Core on your native platform.
+The following are some helpful notes on how to run PCoin Core on your native platform.
 
 ### Unix
 
@@ -22,7 +22,7 @@ Unpack the files into a directory, and then run litecoin-qt.exe.
 
 ### macOS
 
-Drag Litecoin Core to your applications folder, and then run PCoin Core.
+Drag PCoin Core to your applications folder, and then run PCoin Core.
 
 ### Need Help?
 
