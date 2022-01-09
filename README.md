@@ -10,7 +10,7 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network. PCoin Core is the name of open source
 software which enables the use of this currency.
 
-**Specifications**
+Specifications
 ----------------------
 
 Halving of block reward every 69120 blocks (4 months)
@@ -18,6 +18,7 @@ A new block every 2.5 minutes
 Normal block reward of 50 Pcoins
 When you mine a block you have to wait 16 blocks to spend the reward of 50 Pcoins
 Difficulty retarget every day
+Block size up to 2KB for massive save in storage
 Total supply 6.912.000 coins
 
 On testnet, which is a network to test the capabilities of the network, retargets are every 14 days, blocks every 30 seconds for quick confirmation with halvings every month. Because 50% of the testnet coins come in the first month and in the next few months the supply will be exhausted, please donate your coins to other testnet users. Total testnet supply 8.640.000 coins
